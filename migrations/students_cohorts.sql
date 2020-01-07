@@ -17,8 +17,6 @@ CREATE TABLE students (
 );
 
 
-
-
 -- cohorts
 -- -------
 -- pk - id
